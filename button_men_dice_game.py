@@ -95,7 +95,7 @@ class ButtonMenGUI:
         tk.Label(splash_frame, text="HUSNAIN MAROOF", font=("Times New Roman", 40, "bold italic"), bg="#1a1a1a", fg="#ffffff").pack(pady=10)
         tk.Label(splash_frame, text="Initializing Battle Systems...", font=("Courier", 15), bg="#1a1a1a", fg="#444444").pack(pady=20)
 
-        self.root.after(3000, self.create_selection_screen)
+        self.root.after(5000, self.create_selection_screen)
 
     def clear_screen(self):
         for widget in self.root.winfo_children():
@@ -287,4 +287,5 @@ class ButtonMenGUI:
 if __name__ == "__main__": 
     root = tk.Tk()
     app = ButtonMenGUI(root)
+
     root.mainloop()
