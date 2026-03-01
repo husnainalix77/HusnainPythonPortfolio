@@ -120,17 +120,37 @@ class ButtonMenGUI:
         self.start_game()
 
     def start_game(self):
-        self.player1.roll_all_die()
-        self.ai_player.roll_all_die()
-        # Determined start logic
-        if self.player1.highest_die() >= self.ai_player.highest_die():
-            self.current_player, self.other_player = self.player1, self.ai_player
-        else:
-            self.current_player, self.other_player = self.ai_player, self.player1
+    # Initial roll for everyone
+    self.player1.roll_all_die()
+    self.ai_player.roll_all_die()
+    
+    while True:
+        p1_high = self.player1.highest_die()
+        ai_high = self.ai_player.highest_die()
+        
+        # If there is no tie, we found our winner
+        if p1_high != ai_high:
+            break
             
-        self.create_battle_screen("The battle begins!")
-        if self.current_player == self.ai_player:
-            self.root.after(1500, self.ai_turn)
+        # TIE DETECTED: Identify and re-roll ONLY the tied dice
+        for d in self.player1.dice:
+            if d.value == p1_high:
+                d.roll_die()
+                
+        for d in self.ai_player.dice:
+            if d.value == ai_high:
+                d.roll_die()
+
+    # Determine turn order based on the final results
+    if p1_high > ai_high:
+        self.current_player, self.other_player = self.player1, self.ai_player
+    else:
+        self.current_player, self.other_player = self.ai_player, self.player1
+          
+    self.create_battle_screen("A tie occurred! Re-rolled tied dice. The battle begins!")  
+    if self.current_player == self.ai_player:  
+        self.root.after(1500, self.ai_turn)
+
 
     def create_battle_screen(self, status_message=""):
         self.clear_screen()
@@ -289,3 +309,4 @@ if __name__ == "__main__":
     app = ButtonMenGUI(root)
 
     root.mainloop()
+
