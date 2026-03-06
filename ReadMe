@@ -1,47 +1,33 @@
-# Basic to Advanced Python Projects
+Basic to Advanced Python Projects
 
-A collection of Python programs covering fundamental to advanced 
-programming concepts, built progressively over time.
+A collection of Python programs covering fundamental to advanced programming concepts, built progressively over time.
 
----
+Topics Covered
 
-## Topics Covered
+- Basics: Variables, data types, operators, input/output
+- Control Flow: Conditionals, loops, nested logic
+- Functions: Parameters, return values, recursion
+- Object Oriented Programming: Classes, objects, inheritance, polymorphism, encapsulation
+- Data Structures: Lists, tuples, dictionaries, sets
+- File Handling: Reading and writing files
+- Modules: Custom modules, imports
+- Advanced Projects: ATM system, student management, GSM simulation, movie tasks
 
-- **Basics** — Variables, data types, operators, input/output
-- **Control Flow** — Conditionals, loops, nested logic
-- **Functions** — Parameters, return values, recursion
-- **Object Oriented Programming** — Classes, objects, inheritance, polymorphism, encapsulation
-- **Data Structures** — Lists, tuples, dictionaries, sets
-- **File Handling** — Reading and writing files
-- **Modules** — Custom modules, imports
-- **Advanced Projects** — ATM system, student management, GSM simulation, movie tasks
+Notable Projects
 
----
+- ATM_Code.py: Simulated ATM system with transactions
+- GSM.py: GSM network simulation
+- moviesTask.py: Movie data management system
+- Student.py: Student record management using OOP
+- MultipleInheritence.py: Advanced OOP concepts
 
-## Notable Projects
+How to Run
 
-| Project | Description |
-|---|---|
-| ATM_Code.py | Simulated ATM system with transactions |
-| GSM.py | GSM network simulation |
-| moviesTask.py | Movie data management system |
-| Student.py | Student record management using OOP |
-| MultipleInheritence.py | Advanced OOP concepts |
-
----
-
-## Language
-Python 3.x
-
----
-
-## How to Run
 1. Clone this repository
 2. Navigate to any file and run it using Python
 
----
+Author
 
-## Author
-**Husnain Maroof**  
-Mechatronics & Control Engineering — UET Lahore  
-[GitHub Profile](https://github.com/husnainalix77)
+Husnain Maroof
+Mechatronics and Control Engineering, UET Lahore
+GitHub: https://github.com/husnainalix77
