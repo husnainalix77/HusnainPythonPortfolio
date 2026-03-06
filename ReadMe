@@ -10,13 +10,11 @@ programming concepts, built progressively over time.
 - **Basics** — Variables, data types, operators, input/output
 - **Control Flow** — Conditionals, loops, nested logic
 - **Functions** — Parameters, return values, recursion
-- **Object Oriented Programming** — Classes, objects, inheritance,
-  polymorphism, encapsulation
+- **Object Oriented Programming** — Classes, objects, inheritance, polymorphism, encapsulation
 - **Data Structures** — Lists, tuples, dictionaries, sets
 - **File Handling** — Reading and writing files
 - **Modules** — Custom modules, imports
-- **Advanced Projects** — ATM system, student management,
-  GSM simulation, movie tasks
+- **Advanced Projects** — ATM system, student management, GSM simulation, movie tasks
 
 ---
 
@@ -24,35 +22,26 @@ programming concepts, built progressively over time.
 
 | Project | Description |
 |---|---|
-| `ATM_Code.py` | Simulated ATM system with transactions |
-| `GSM.py` | GSM network simulation |
-| `moviesTask.py` | Movie data management system |
-| `Student.py` | Student record management using OOP |
-| `MultipleInheritence.py` | Advanced OOP concepts |
+| ATM_Code.py | Simulated ATM system with transactions |
+| GSM.py | GSM network simulation |
+| moviesTask.py | Movie data management system |
+| Student.py | Student record management using OOP |
+| MultipleInheritence.py | Advanced OOP concepts |
 
 ---
 
 ## Language
-```python
 Python 3.x
-```
 
 ---
 
 ## How to Run
 1. Clone this repository
-```bash
-git clone https://github.com/husnainalix77/Basic-to-Advanced-Python-Projects.git
-```
-2. Navigate to any file
-```bash
-cd Basic-to-Advanced-Python-Projects
-python filename.py
-```
+2. Navigate to any file and run it using Python
 
 ---
 
 ## Author
 **Husnain Maroof**  
 Mechatronics & Control Engineering — UET Lahore  
-[GitHub](https://github.com/husnainalix77)
+[GitHub Profile](https://github.com/husnainalix77)
