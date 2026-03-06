@@ -1,61 +1,58 @@
-# 🤖 Husnain Maroof's Data Science & Machine Learning Portfolio 🚀
+# Basic to Advanced Python Projects
 
-> **"A passionate machine learning engineer from Pakistan."**
-
-Welcome to my portfolio repository! This space is dedicated to projects, notebooks, and code implementations in **Machine Learning (ML)**, **Artificial Intelligence (AI)**, and foundational programming concepts. I focus on creating robust, efficient, and data-driven solutions.
-
----
-
-## 💡 Projects & Topics Covered
-
-This repository contains a diverse range of projects. Here are the main areas you can explore:
-
-### 🧠 Machine Learning & Artificial Intelligence
-| Project Focus | Description | Languages/Tools |
-| :--- | :--- | :--- |
-| **Supervised Learning** | Implementations of classification and regression algorithms (e.g., Linear Regression, Logistic Regression, Decision Trees, SVMs). | Python, Scikit-learn, Pandas, NumPy |
-| **Deep Learning** | Neural network architectures for various tasks (e.g., CNNs for image recognition, RNNs for sequence data). | Python, TensorFlow/Keras, PyTorch |
-| **Unsupervised Learning** | Clustering (K-Means, DBSCAN) and dimensionality reduction (PCA) techniques. | Python, Scikit-learn |
-| **AI/ML Applications** | Projects focusing on real-world problems like predictive modeling, natural language processing (NLP), or computer vision. | Python, NLTK, OpenCV |
-
-### 🐍 Foundational Programming
-| Concept | Description | Languages/Tools |
-| :--- | :--- | :--- |
-| **Object-Oriented Programming (OOP)** | Examples showcasing core OOP concepts like classes, inheritance, polymorphism, and encapsulation in Python. | Python |
-| **Procedural Programming** | Scripts demonstrating clear, step-by-step logic and function-based program structure. | Python |
+A collection of Python programs covering fundamental to advanced 
+programming concepts, built progressively over time.
 
 ---
 
-## 🛠️ Languages and Tools
+## Topics Covered
 
-My skill set is primarily focused on data science and backend development. The projects here utilize the following technologies:
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Primary Languages** | **Python** 🐍, C++, C |
-| **Web & Database** | HTML, CSS, **MySQL** 🗄️ |
-| **ML Frameworks** | Scikit-learn, TensorFlow/Keras, Pandas, NumPy |
-| **Version Control** | Git, GitHub |
-
----
-
-## 🌐 Connect with Me
-
-I'm always open to discussing new opportunities, collaborations, or intriguing data science problems.
-
-* **Ask me about:** `python`, `C`, `MySQL`, `machine learning`, `AI` 💬
-* **Email:** [husnainalix005@gmail.com](mailto:husnainalix005@gmail.com)
-* **LinkedIn/Personal Website:** *(Add your LinkedIn or personal portfolio link here!)*
-* **GitHub:** [Husnain Maroof](https://github.com/your-username) *(Link to your profile)*
-* **Connect on Facebook:**  [Link to your Facebook profile]
+- **Basics** — Variables, data types, operators, input/output
+- **Control Flow** — Conditionals, loops, nested logic
+- **Functions** — Parameters, return values, recursion
+- **Object Oriented Programming** — Classes, objects, inheritance,
+  polymorphism, encapsulation
+- **Data Structures** — Lists, tuples, dictionaries, sets
+- **File Handling** — Reading and writing files
+- **Modules** — Custom modules, imports
+- **Advanced Projects** — ATM system, student management,
+  GSM simulation, movie tasks
 
 ---
 
-## 📊 GitHub Stats
+## Notable Projects
 
-*(**Tip:** You can integrate a dynamic GitHub stats card here using a service like [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats). This will automatically display your commit, star, and language stats as a nice-looking image, similar to the badges on your profile!)*
+| Project | Description |
+|---|---|
+| `ATM_Code.py` | Simulated ATM system with transactions |
+| `GSM.py` | GSM network simulation |
+| `moviesTask.py` | Movie data management system |
+| `Student.py` | Student record management using OOP |
+| `MultipleInheritence.py` | Advanced OOP concepts |
 
 ---
 
-⭐️ **Star** this repository if you find these projects useful!
+## Language
+```python
+Python 3.x
+```
 
+---
+
+## How to Run
+1. Clone this repository
+```bash
+git clone https://github.com/husnainalix77/Basic-to-Advanced-Python-Projects.git
+```
+2. Navigate to any file
+```bash
+cd Basic-to-Advanced-Python-Projects
+python filename.py
+```
+
+---
+
+## Author
+**Husnain Maroof**  
+Mechatronics & Control Engineering — UET Lahore  
+[GitHub](https://github.com/husnainalix77)
