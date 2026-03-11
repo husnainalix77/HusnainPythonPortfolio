@@ -360,7 +360,7 @@ class Game:
                 Game.clear_screen()
                 pit_index   = self.player2.get_best_pit(self.board, 2)
                 current_pit = self.board.fill_pit(2, pit_index - 7)
-                print(Fore.CYAN+"AI chose pit {pit_index - 6}.")
+                print(Fore.CYAN+f"AI chose pit {pit_index - 6}.")
             else:
                 pit_num     = Game.valid_input(self.current_player_num)    
                 current_pit = self.board.fill_pit(self.current_player_num, pit_num - 1)
