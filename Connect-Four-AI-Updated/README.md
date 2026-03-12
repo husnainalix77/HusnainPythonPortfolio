@@ -5,7 +5,8 @@ Machine Learning Enthusiast
 Updated Version — 16 September 2025
 
 ---
-
+## Preview
+![Connect Four Gameplay](screenshot.png)
 ## Project Overview
 
 This project is an **advanced terminal-based implementation of the classic Connect Four game** where a human player competes against a **strong AI opponent**.
