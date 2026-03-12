@@ -1,4 +1,7 @@
 # Mancala Game (Human vs AI)
+## Game Preview
+
+![Mancala Game](screenshot.png)
 
 A terminal-based Mancala game implemented in Python.
 
