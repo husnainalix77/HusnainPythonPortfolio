@@ -4,6 +4,9 @@
 
 A fully playable **Connect Four game** implemented in Python with a **strong AI opponent**. The AI uses strategic decision-making to win when possible, block the opponent, and select strong board positions. The game runs in the **terminal/console** and displays the board using a **Unicode grid with colored pieces**.
 
+## Preview
+![Connect Four Gameplay](screenshot.png)
+
 ---
 
 ## Overview
