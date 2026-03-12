@@ -9,7 +9,8 @@ This project implements the complete **Quarto board game** with an **AI opponent
 The game runs in the **terminal** and allows a human player to compete against an intelligent computer opponent.
 
 ---
-
+## Preview
+![Quarto Gameplay](screenshot.png)
 # Project Overview
 
 **Quarto** is a two-player abstract strategy game played on a **4×4 board** with **16 unique pieces**.
