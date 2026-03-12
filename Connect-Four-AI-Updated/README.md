@@ -89,4 +89,4 @@ Columns are searched starting from the **center column first**, because center p
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ConnectFour-AI.git
+git clone https://github.com/husnainalix77/HusnainPythonPortfolio.git
