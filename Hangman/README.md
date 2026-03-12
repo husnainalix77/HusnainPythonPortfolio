@@ -6,7 +6,8 @@ A console-based **Hangman (Word Guessing Game)** implemented in Python.
 The player guesses letters to reveal a hidden word chosen from different categories such as **Countries, Animals, and Fruits**. The game provides colored terminal feedback, tracks guessed letters, and limits the number of attempts.
 
 ---
-
+## Preview
+![Hangman Gameplay](screenshot.png)
 ## Overview
 
 Hangman is a classic word-guessing game where the player attempts to discover a hidden word by guessing letters one at a time. If the guessed letter exists in the word, it is revealed in its correct position(s). If the guess is incorrect, the number of remaining attempts decreases.
