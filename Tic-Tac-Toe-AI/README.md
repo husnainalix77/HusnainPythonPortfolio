@@ -1,4 +1,6 @@
 # Tic Tac Toe AI — NxN Board
+## Preview
+![Tic Tac Toe AI Gameplay](screenshot.png)
 
 ## Overview
 An NxN Tic Tac Toe game in Python where a Human plays against an AI opponent.
