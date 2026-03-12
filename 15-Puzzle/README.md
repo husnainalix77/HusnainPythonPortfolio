@@ -1,4 +1,6 @@
 # 15 Puzzle Game — NxN Sliding Puzzle
+## Preview
+![15 Puzzle Gameplay](screenshot.png)
 
 ## Overview
 A terminal-based NxN sliding puzzle game where the player arranges numbered tiles
