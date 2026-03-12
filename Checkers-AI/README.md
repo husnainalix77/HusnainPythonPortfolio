@@ -14,6 +14,8 @@ The game runs in the **terminal** and allows a human player to compete against a
 Checkers is a two-player strategy board game played on an **8×8 board** where pieces move diagonally and capture opponent pieces by jumping over them.
 ## Preview
 ![Checkers Gameplay](screenshot.png)
+
+
 In this implementation:
 
 - **Human player controls Red pieces (R)**
