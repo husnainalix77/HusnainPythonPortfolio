@@ -1,6 +1,8 @@
 # Reversi (Othello) Game – Human vs AI
 
 **Coded and Edited by Husnain Maroof – 9 Sep, 2025**
+## Preview
+![Reversi Gameplay](screenshot.png)
 
 A fully playable **Reversi (Othello) game** in Python with an AI opponent powered by **Minimax algorithm with alpha-beta pruning**. This project includes a dynamic board evaluation strategy, highlighting valid moves, and an adaptive AI depth depending on the stage of the game.
 
