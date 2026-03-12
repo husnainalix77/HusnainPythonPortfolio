@@ -1,47 +1,36 @@
-# Mancala AI Game (Human vs AI)
+# Mancala Game (Human vs AI)
 
-A terminal-based implementation of the ancient board game **Mancala**, where a human player competes against an AI opponent.  
-The AI uses classical game-search algorithms to make intelligent moves.
+A terminal-based Mancala game implemented in Python with an AI opponent.
 
----
+The AI uses the Minimax algorithm with Alpha-Beta pruning and adaptive depth
+to make intelligent decisions.
 
 ## Features
 
 - Human vs AI gameplay
-- Minimax search algorithm
-- Alpha-Beta pruning optimization
-- Adaptive search depth
-- Capture and bonus-turn mechanics
-- Terminal-based game board
+- Adaptive Minimax AI
+- Alpha-Beta pruning
+- Capture mechanics
+- Bonus turns
+- Colored terminal interface
 
----
+## Installation
 
-## Game Rules (Simplified)
+Install dependencies:
 
-- The board contains **6 pits for each player** and **2 stores**.
-- Each pit initially contains **4 stones**.
-- Players choose a pit and distribute stones counter-clockwise.
-- Landing in your **store gives a bonus turn**.
-- Landing in an **empty pit on your side captures opponent stones**.
-- The game ends when one side of pits becomes empty.
+pip install -r requirements.txt
 
-The player with the **most stones in their store wins**.
+## Run the Game
 
----
+python mancala.py
 
-## AI Strategy
+## Game Rules
 
-The AI uses:
+Mancala is a strategic board game where players distribute stones across pits.
+The player with the most stones in their store at the end wins.
 
-- **Minimax Algorithm**
-- **Alpha-Beta Pruning**
-- **Heuristic Evaluation Function**
+## Author
 
-The evaluation function considers:
-
-- Score difference between stores
-- Potential capture opportunities
-- Extra move opportunities
-- Stone distribution on both sides
-
----
+Husnain Maroof  
+Mechatronics Engineer  
+March 2026
