@@ -22,7 +22,8 @@ Maze sizes supported:
 Each maze is generated dynamically using a **recursive DFS path-carving algorithm**, producing a different maze every time the game runs.
 
 ---
-
+## Preview
+![Maze Gameplay](screenshot.png)
 # Features
 
 - Random maze generation
