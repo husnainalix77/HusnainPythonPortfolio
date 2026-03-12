@@ -1,4 +1,6 @@
 # 2048 Game – Python Console Version
+## Preview
+![2048 Gameplay](screenshot.png)
 
 **Coded by Husnain Maroof, Machine Learning Engineer – 02 Sep, 2025**
 
