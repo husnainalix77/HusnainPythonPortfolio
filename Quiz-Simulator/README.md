@@ -42,11 +42,6 @@ Each question file must contain questions in the following **tab-separated forma
 
 What is 2+2? a) 2 b) 3 c) 4 d) 5 c
 
-easy.txt
-medium.txt
-hard.txt
-
-
 Each line represents **one MCQ**.
 
 ---
@@ -83,4 +78,4 @@ After the quiz finishes, the program saves results in a file.
 Run the program using Python:
 
 ```bash
-python adaptive_quiz.py
+python quiz_simulator.py
