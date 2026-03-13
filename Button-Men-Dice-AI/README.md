@@ -12,7 +12,9 @@ The game includes **animated dice rolling**, **character-based dice sets**, and 
 
 In this game, each player selects a **character** with a predefined set of dice.  
 Each die represents strength depending on its number of sides.
-
+## Preview
+![Gameplay Screenshot 1](screenshot.png)
+![Gameplay Screenshot 2](screenshot1.png)
 Players take turns:
 
 1. Selecting one of their dice to attack
