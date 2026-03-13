@@ -12,6 +12,9 @@ The game runs in the **terminal** and allows a human player to compete against a
 # Overview
 
 Checkers is a two-player strategy board game played on an **8×8 board** where pieces move diagonally and capture opponent pieces by jumping over them.
+## Preview
+![Checkers Gameplay](screenshot.png)
+
 
 In this implementation:
 
@@ -96,4 +99,4 @@ The AI evaluates positions based on:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/checkers-ai-game.git
+git clone https://github.com/husnainalix77 /HusnainPythonPortfolio.git
