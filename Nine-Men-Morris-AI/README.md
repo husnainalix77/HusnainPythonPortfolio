@@ -10,7 +10,8 @@ The project is built using **pure Object-Oriented Programming** across 5 modules
 with a colored terminal UI using ANSI escape codes.
 
 **Developer:** Husnain Maroof | **Version:** 1.0 | **Date:** March 13–19, 2026
-
+## Preview
+![Gameplay Screenshot](screenshot.png)
 ---
 
 ## Files
@@ -109,4 +110,3 @@ Game                     ← Main controller (Phase 1, Phase 2/3, turn switching
 **Husnain Maroof**  
 Mechatronics & Control Engineering, UET Lahore  
 GitHub: [husnainalix77](https://github.com/husnainalix77)
-"""
