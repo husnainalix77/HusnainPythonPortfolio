@@ -1,5 +1,3 @@
-
-"""
 # Nine Men's Morris — Human vs AI
 
 ## Overview
