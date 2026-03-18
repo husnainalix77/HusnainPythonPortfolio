@@ -1,4 +1,3 @@
-# Paste this in a Markdown cell in Jupyter, or directly into README.md
 
 """
 # Nine Men's Morris — Human vs AI
