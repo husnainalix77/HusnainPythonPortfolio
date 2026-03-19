@@ -13,6 +13,8 @@ with a colored terminal UI using ANSI escape codes.
 **Developer:** Husnain Maroof | **Version:** 1.0 | **Date:** March 13–19, 2026
 
 ---
+## Preview
+![Nine Men's Morris Gameplay](screenshot.png)
 
 ## Files
 | File | Role |
