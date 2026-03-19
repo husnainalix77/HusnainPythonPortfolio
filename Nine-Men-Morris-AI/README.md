@@ -68,10 +68,9 @@ Searches the game tree recursively across all three phases with **adaptive depth
 
 | Empty Positions | Search Depth |
 |---|---|
-| ≥ 20 | 4 |
-| ≥ 15 | 5 |
-| ≥ 10 | 6 |
-| < 10 | 7 |
+| ≥ 15 | 4 |
+| ≥ 10 | 5 |
+| < 10 | 6 |
 
 ### Six-Factor Heuristic Evaluation
 | Factor | What it Measures | Weight |
